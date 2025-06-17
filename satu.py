@@ -1,1 +1,1 @@
-print("biji jerami")
+print("biji jerami gajah")
